@@ -1,5 +1,7 @@
-<h1 align="center">NiHao OFM AI</h1>
-<p align="center">Founder @ Mythlab · AI content infrastructure for creators & agencies</p>
+<p align="center">
+  <img src="./banner.svg" alt="NiHao OFM AI" width="100%" />
+</p>
+
 
 <p align="center">
   <a href="https://mythlab.art"><img src="https://img.shields.io/badge/Mythlab-mythlab.art-7C3AED?style=for-the-badge" alt="Mythlab" /></a>
