@@ -4,7 +4,7 @@
 
 ## ◆ What I'm building
 
-- [Mythlab, Inc.](https://mythlab.art) — studio for AI content & creator tooling
+- [Mythlab, Inc.](https://mythlab.art) — > Head of Products @ Mythlab — I orchestrate what gets built & shipped.
 - [SinLab](https://sinlab.art) — AI content generation platform for creators & agencies
 - [PureLab](https://purelab.art) — the SFW side
 
