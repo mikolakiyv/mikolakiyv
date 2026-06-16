@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">NiHao OFM AI</h1>
+<p align="center">Founder @ Mythlab · AI content infrastructure for creators & agencies</p>
 
-<!--
-**mikolakiyv/mikolakiyv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://mythlab.art"><img src="https://img.shields.io/badge/Mythlab-mythlab.art-7C3AED?style=for-the-badge" alt="Mythlab" /></a>
+  <a href="https://sinlab.art"><img src="https://img.shields.io/badge/SinLab-sinlab.art-EC4899?style=for-the-badge" alt="SinLab" /></a>
+  <a href="https://purelab.art"><img src="https://img.shields.io/badge/PureLab-purelab.art-06B6D4?style=for-the-badge" alt="PureLab" /></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm building
+
+- **[Mythlab, Inc.](https://mythlab.art)** — studio for AI content & creator tooling
+- **[SinLab](https://sinlab.art)** — AI content generation platform for creators & agencies
+- **[PureLab](https://purelab.art)** — AI content generation for creators & agencies
+
+### 🛠️ Stack
+
+**Backend** — Python · FastAPI · PostgreSQL · Redis · Celery · Docker<br/>
+**Frontend** — React · TypeScript · Vite · Tailwind · shadcn/ui<br/>
+**AI / GPU** — ComfyUI · LoRA training · Vast.ai · Cloudflare R2<br/>
+**Observability** — PostHog · Grafana · Sentry · Prometheus
+
+### ⚙️ How I build
+
+Orchestrating fleets of AI coding agents across a large codebase.<br/>
+Prompts that teach *how to think*, not *what to write*.
+
+### 🏍️ Off the clock
+
+FPV freestyle · motorcycles · Phuket
