@@ -1,0 +1,86 @@
+<svg width="1280" height="380" viewBox="0 0 1280 380" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="NiHao OFM AI — Mythlab">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F2CE78"/>
+      <stop offset="100%" stop-color="#D9A441"/>
+    </linearGradient>
+    <radialGradient id="bgGlow" cx="50%" cy="38%" r="75%">
+      <stop offset="0%" stop-color="#1C1430"/>
+      <stop offset="60%" stop-color="#120D1E"/>
+      <stop offset="100%" stop-color="#0C0814"/>
+    </radialGradient>
+  </defs>
+
+  <!-- base -->
+  <rect width="1280" height="380" rx="14" fill="#0C0814"/>
+  <rect width="1280" height="380" rx="14" fill="url(#bgGlow)"/>
+
+  <!-- faint grid -->
+  <g stroke="#FFFFFF" stroke-opacity="0.03" stroke-width="1">
+    <line x1="200" y1="0" x2="200" y2="380"/>
+    <line x1="500" y1="0" x2="500" y2="380"/>
+    <line x1="780" y1="0" x2="780" y2="380"/>
+    <line x1="1080" y1="0" x2="1080" y2="380"/>
+    <line x1="0" y1="120" x2="1280" y2="120"/>
+    <line x1="0" y1="270" x2="1280" y2="270"/>
+  </g>
+
+  <!-- constellation -->
+  <g stroke-opacity="0.25">
+    <line x1="60" y1="90" x2="120" y2="200" stroke="#E0B252"/>
+    <line x1="220" y1="150" x2="300" y2="300" stroke="#A78BDA"/>
+    <line x1="980" y1="110" x2="1100" y2="180" stroke="#E0B252"/>
+    <line x1="1040" y1="300" x2="1150" y2="255" stroke="#A78BDA"/>
+  </g>
+  <g>
+    <circle cx="60" cy="90" r="1.6" fill="#E0B252" opacity="0.8"/>
+    <circle cx="120" cy="200" r="1.3" fill="#A78BDA" opacity="0.7"/>
+    <circle cx="40" cy="255" r="1.1" fill="#8A8694" opacity="0.6"/>
+    <circle cx="220" cy="150" r="1.2" fill="#E0B252" opacity="0.7"/>
+    <circle cx="300" cy="300" r="1.3" fill="#A78BDA" opacity="0.6"/>
+    <circle cx="560" cy="74" r="1.1" fill="#A78BDA" opacity="0.6"/>
+    <circle cx="980" cy="110" r="1.6" fill="#A78BDA" opacity="0.7"/>
+    <circle cx="1100" cy="180" r="1.3" fill="#E0B252" opacity="0.7"/>
+    <circle cx="1180" cy="95" r="1.1" fill="#8A8694" opacity="0.6"/>
+    <circle cx="1040" cy="300" r="1.2" fill="#E0B252" opacity="0.7"/>
+    <circle cx="1150" cy="255" r="1.3" fill="#A78BDA" opacity="0.6"/>
+  </g>
+
+  <!-- diamond mark -->
+  <rect x="630" y="38" width="20" height="20" transform="rotate(45 640 48)" fill="none" stroke="url(#gold)" stroke-width="2"/>
+  <rect x="636" y="44" width="8" height="8" transform="rotate(45 640 48)" fill="url(#gold)"/>
+
+  <!-- eyebrow -->
+  <text x="640" y="90" text-anchor="middle" font-family="'SF Mono','JetBrains Mono',ui-monospace,Menlo,Consolas,monospace" font-size="13" letter-spacing="6" fill="#9A8C6A">MYTHLAB, INC.</text>
+
+  <!-- wordmark -->
+  <text x="640" y="172" text-anchor="middle" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="68" font-weight="800" letter-spacing="-2">
+    <tspan fill="#F4F1EA">NiHao </tspan><tspan fill="url(#gold)">OFM AI</tspan>
+  </text>
+
+  <!-- italic-serif tagline -->
+  <text x="640" y="216" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="27" fill="#CFC8D8">
+    We build the <tspan fill="#E0B252">pipelines</tspan>.
+  </text>
+  <text x="640" y="250" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="27" fill="#CFC8D8">
+    Operators build the <tspan fill="#A78BDA">business</tspan>.
+  </text>
+
+  <!-- pill chain: REFERENCES -> CHARACTER -> CONTENT -> REVENUE -->
+  <g font-family="'SF Mono','JetBrains Mono',ui-monospace,Menlo,Consolas,monospace" font-size="11" letter-spacing="2" font-weight="600">
+    <rect x="419" y="300" width="102" height="32" rx="6" fill="#190F08" stroke="#5A4420"/>
+    <text x="470" y="320" text-anchor="middle" fill="#E0B252">REFERENCES</text>
+    <text x="535" y="320" text-anchor="middle" fill="#7A6A4A">→</text>
+    <rect x="549" y="300" width="95" height="32" rx="6" fill="#190F08" stroke="#5A4420"/>
+    <text x="596" y="320" text-anchor="middle" fill="#E0B252">CHARACTER</text>
+    <text x="658" y="320" text-anchor="middle" fill="#7A6A4A">→</text>
+    <rect x="672" y="300" width="81" height="32" rx="6" fill="#190F08" stroke="#5A4420"/>
+    <text x="712" y="320" text-anchor="middle" fill="#E0B252">CONTENT</text>
+    <text x="767" y="320" text-anchor="middle" fill="#7A6A4A">→</text>
+    <rect x="781" y="300" width="81" height="32" rx="6" fill="#190F08" stroke="#5A4420"/>
+    <text x="821" y="320" text-anchor="middle" fill="#E0B252">REVENUE</text>
+  </g>
+
+  <!-- credentials -->
+  <text x="640" y="362" text-anchor="middle" font-family="'SF Mono','JetBrains Mono',ui-monospace,Menlo,Consolas,monospace" font-size="11" letter-spacing="3" fill="#8A7C5A">INDEPENDENT STUDIO  ◆  CONTENT-GEN INFRA  ◆  BUILT FOR OPERATORS</text>
+</svg>
